@@ -1,0 +1,7 @@
+Note:
+
+The files in this zip file has been uploaded using Git LFS. So, to clone this repo:(please make sure Git LFS and 7zip is installed on your system)
+
+git clone https://github.com/PacktPublishing/Blender-to-Unreal-Engine-5-The-Complete-Beginners-Guide
+git lfs pull
+After you have the files, check whether the size is around 862 Mb.
